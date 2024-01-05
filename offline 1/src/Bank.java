@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Bank {
     private static double InternalFund=1000000;
-    private static int year=0;
+    //private static int year=0;
     private ManagingDirector MD;
     private ArrayList<Officer> O;
     private ArrayList<Cashier> C;
