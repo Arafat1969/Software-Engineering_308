@@ -1,0 +1,12 @@
+mkdrive C
+cd C:\
+mkdir Music
+cd Music
+mkdir mp3
+touch rainbow.mp3
+list
+cd ~
+cd C:\
+ls Music
+delete Music
+delete -r Music
